@@ -32,9 +32,6 @@ const Game = ()=>{
         setDraw("");
         setXIsNext(true)
     }
-    // const jumpTo = ()=>{
-
-    //}
 
     return(
         <div>
