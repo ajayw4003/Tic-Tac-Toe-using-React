@@ -1,0 +1,9 @@
+.board{
+    border: darkslategrey 4px solid;
+    height: 300px;
+    width: 300px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    margin: auto;
+    border-radius: 10px;
+}
